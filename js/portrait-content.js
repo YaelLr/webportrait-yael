@@ -91,10 +91,6 @@ export const PORTRAIT_CONTENT = {
         "",
         "En dehors des cours je fais du badminton, et j'aide mon frère à trouver de nouvelles recettes de cuisines.",
       ),
-      section(
-        "À voir et à écouter",
-        "Photos, extraits sonores ou liens.",
-      ),
     ],
   },
   atelier: {
